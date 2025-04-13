@@ -36,7 +36,19 @@
 
 ###
 
-<p align="left">I'm Emma, a 21 y/o trans girl 🌸 from Hamburg, Germany 🇩🇪. Outside the internet, I’m studying Business Informatics (B.Sc.) 👩‍💻 after switching from Rescue Engineering 🚑 (B. Eng) after three semesters. Alongside university, I work as a Software Developer, System Administrator, and, since March 2024, as our Chief Information Security Officer (Certified). I’m also autistic and have ADHD, so I swing between hyper-focused and interested to overwhelmed, easily distracted, or bored. So if I forget to reply to a message, please bear with me! 😅<br><br>My special interests include everything tech and emergency medicine, so I've gathered a few certifications: I’m a certified Data Privacy Protection Officer, Data Privacy Protection Auditor, have an expert certificate for operating a whistleblower reporting office (per § 15 para. 2 HinSchG), and I’m Google Cybersecurity Certified. Plus, I've got CompTIA Security+, CompTIA Network+, CompTIA Linux+ certifications, and I'm also a certified Mental Health Crisis Guide 📜.<br><br>In my free time, I volunteer in civil protection for my city and across Germany, supporting state and federal operations as an Emergency Paramedic 🚑, Group Leader, Youth Trainer, and CBRN Specialist 🦺.<br><br>At work, I handle our IT infrastructure, lead the Cloud Microservice Infrastructure project (transitioning legacy monolithic software to cloud-based solutions), and conduct security and data protection audits.<br><br>For fun, I’m into gaming 🎮 (simulators, Minecraft, shooters like R6, Valorant, CS, RPGs like The Division 1 & 2), tinkering with Arduino microcontrollers, learning guitar and keyboard 🎸🎹, or playing around with my homelab setup (2 servers and a Raspberry Pi).<br><br>My Setup:<br>    CPU: AMD Ryzen 9 7950X 16-Core<br>    RAM: 64GB DDR5 FURY 6000<br>    GPU: NVIDIA GeForce RTX 4070 Super<br><br>Besides all that, I do some web dev in my free time, creating projects for Minecraft, Discord, and supporting communities and creators.</p>
+<p align="left">
+Hi, I'm Emma – a 21-year-old trans girl 🌸 from Hamburg, Germany 🇩🇪. I'm currently studying Hazard Control (B.Eng.), after spending three semesters in Rescue Engineering. Alongside university, I work as a Software Developer and System Administrator, and since March 2024, I’ve also taken on the role of Chief Information Security Officer (certified).<br><br>
+I’m especially interested in tech and emergency medicine, which led me to pursue several certifications: I'm a certified Data Privacy Officer, Privacy Auditor, and hold an expert certificate for managing whistleblower reporting channels (as per §15 (2) HinSchG). I’m also Google Cybersecurity Certified, with CompTIA Security+, Network+, and Linux+ certifications, and I’m a certified Mental Health Crisis Guide 📜.<br><br>
+In my free time, I volunteer in civil protection both locally and nationwide – supporting operations as an Emergency Paramedic 🚑, Group Leader, Youth Trainer, and CBRN Specialist 🦺.<br><br>
+At work, I manage our IT infrastructure, lead the transition of our monolithic software to a cloud microservice architecture, and handle security and data protection audits.<br><br>
+In my spare time, I enjoy gaming 🎮 (simulators, Minecraft, shooters like R6, Valorant, CS, and RPGs like The Division 1 & 2), working on Arduino projects, learning guitar and keyboard 🎸🎹, or playing around with my homelab setup (2 servers and a Raspberry Pi).<br><br>
+My Setup:<br>
+ CPU: AMD Ryzen 9 7950X (16-Core)<br>
+ RAM: 64GB DDR5 FURY 6000<br>
+ GPU: NVIDIA GeForce RTX 4070 Super<br><br>
+
+I also like doing some web development on the side – creating projects for Minecraft, Discord, or to support online communities and creators.
+</p>
 
 ###
 
